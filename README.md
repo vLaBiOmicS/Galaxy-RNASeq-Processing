@@ -1,1 +1,1 @@
-# Galaxy-RNASeq-Processing
+# Galaxy Project - RNASeq Processing
